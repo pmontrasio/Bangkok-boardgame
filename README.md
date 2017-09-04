@@ -42,7 +42,7 @@ Pick one die for every colour. Cast them and place them on the corresponding dic
 
 Cast all the other dice. They are seven per colour. Loosely group them in the centre of the table. Nobody must move them anymore.
 
-![Board setup, initial dice roll](images/01-start-turn.jpg?raw=true "Board setup, initial dice roll")
+![Board setup, initial dice roll](images/01-beginning-of-turn.jpg?raw=true "Board setup, initial dice roll")
 
 The first player picks a die and puts it in front of him/her with the original value of the die facing upwards. The value of the die must not be changed.
 
