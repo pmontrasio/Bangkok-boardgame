@@ -50,7 +50,7 @@ The die can be kept separated from the other dice of the player or can be groupe
 
 The player to the right plays next. The sequence is repeated until there are no more dice left.
 
-* ![End of turn, all dice picked up](images/02-end-of-turn.jpg?raw=true "End of turn, all dice picked up")
+![End of turn, all dice picked up](images/02-end-of-turn.jpg?raw=true "End of turn, all dice picked up")
 
 ## Scoring a round
 
@@ -74,7 +74,7 @@ For example 1, 2, 3, 4, 5 must be scored only as a sequence of five. The dice 1,
 
 Use the row at the bottom of the Scoring Board to count the hundreds.
 
-* ![End of counting, dice rearranged to ease counting sequences](images/03-end-of-counting.jpg?raw=true "End of counting, dice rearranged to ease counting sequences")
+![End of counting, dice rearranged to ease counting sequences](images/03-end-of-counting.jpg?raw=true "End of counting, dice rearranged to ease counting sequences")
 
 ## Preparing for the next round
 
